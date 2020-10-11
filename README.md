@@ -1,37 +1,18 @@
-Welcome to Glitch
-=================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+# My Website
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+##### Files contained
+  - index.html
+  - skill.html
+  - contact.html
+  - script.js
+  - style.css
+  - Also used bootstrap and jquery files from cdn
+##### Note:navigation will be on every web page
 
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+##### index.html
+  - Home Page of the website which contains basic information
+##### skill.html
+  - Information about skill set, projects and hobbies
+##### contact.html
+  - way to contact the host of the website
