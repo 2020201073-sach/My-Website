@@ -1,0 +1,85 @@
+/* CSS files add styling rules to your content */
+body{
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffcc 100%);
+  padding:0px;
+  margin:0px;
+  font-family: helvetica, arial, sans-serif;
+  margin: 0px;
+}
+
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+img.img-circle{
+  height:200px;
+  widht:200px;
+}
+img:hover{
+  opacity:0.2;
+  
+}
+ul {
+  list-style-type:none;
+}
+li{
+  padding:20px 20px 20px 0px;
+}
+.profile-name{
+  font-weight:bold;
+  font-size:30px;
+  padding-top:5px;
+  color:#2F4F4F;
+}
+a{
+  color:white;
+  font-weight:bold;
+  font-size:16px;
+}
+a:visited{
+  text-decoration:none;
+  background-color:black;
+  color:white;
+}
+
+a:hover{
+  color:#2F4F4F;
+  background-color:#FFDAB9;
+  text-decoration:none;
+  padding:10px;
+  border-radius:4px;
+}
+a:active{
+  text-decoration:none;
+}
+h3{
+  color:#2F4F4F;
+  font-weight:bold;
+  font-size:30px;
+}
+div.intro{
+  padding:2px 2px 2px 2px;
+  font-size:16px;
+  padding-top:5px;
+  color:#2F4F4F;
+}
+input{
+  padding:10px;
+  margin:10px;
+  border-radius:20px;
+  width:50%;
+}
+.contact-form{
+  
+  background: linear-gradient(to bottom, #2F4F4F 0%, WHITE 100%);
+  margin:20px;
+  border-radius:20px;
+  padding:10px;
+  width:50%;
+}
+td:hover{
+  background-color:#2F4F4F;
+  color:white;
+  font-weight:bold;
+}
